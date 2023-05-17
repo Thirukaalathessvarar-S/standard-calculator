@@ -36,6 +36,10 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
+Name : Thirukaalathessvarar S
+Reg.no : 212222230161
+```
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -106,16 +110,13 @@ Publish the website in the given URL.
     </body>
 </html>
 ```
+
 ## OUTPUT:
-
 ## CLIENT OUTPUT:
-
-![ex08](https://github.com/22008686/standard-calculator/assets/118916413/488a9ae5-1b46-4622-875f-c353016aa3af)
+![2023-05-17 (2)](https://github.com/Thirukaalathessvarar-S/standard-calculator/assets/121166390/de44bd00-ca92-44bd-bd74-00fd37e8301d)
 
 ## SERVER OUTPUT:
-
-![EX 08 2](https://github.com/22008686/standard-calculator/assets/118916413/d9458245-c8f0-45d5-a37b-fc8b0b3705a8)
+![2023-05-17 (4)](https://github.com/Thirukaalathessvarar-S/standard-calculator/assets/121166390/ab2aa90f-9eb1-4859-9bcf-edecae214aa6)
 
 ## Result:
-
 Thus the program has been executed successfully.
